@@ -1,0 +1,4 @@
+mongod = iniciar mongodb
+
+npm start = para iniciar el servicio ya sin cambios
+npm run dev = para iniciar el servicio duranrnte el desarrollo
